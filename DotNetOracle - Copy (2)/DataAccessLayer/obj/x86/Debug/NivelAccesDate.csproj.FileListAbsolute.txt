@@ -1,0 +1,18 @@
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\DataAccessLayer\bin\x86\Debug\NivelAccesDate.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\DataAccessLayer\bin\x86\Debug\NivelAccesDate.pdb
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\DataAccessLayer\bin\x86\Debug\LibrarieModele.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\DataAccessLayer\bin\x86\Debug\LibrarieModele.pdb
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\DataAccessLayer\obj\x86\Debug\NivelAccesDate.csproj.AssemblyReference.cache
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\DataAccessLayer\obj\x86\Debug\NivelAccesDate.csproj.CoreCompileInputs.cache
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\DataAccessLayer\obj\x86\Debug\NivelAcc.AD3BBEDF.Up2Date
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\DataAccessLayer\obj\x86\Debug\NivelAccesDate.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\DataAccessLayer\obj\x86\Debug\NivelAccesDate.pdb
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\DataAccessLayer\bin\x86\Debug\NivelAccesDate.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\DataAccessLayer\bin\x86\Debug\NivelAccesDate.pdb
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\DataAccessLayer\bin\x86\Debug\LibrarieModele.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\DataAccessLayer\bin\x86\Debug\LibrarieModele.pdb
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\DataAccessLayer\obj\x86\Debug\NivelAccesDate.csproj.AssemblyReference.cache
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\DataAccessLayer\obj\x86\Debug\NivelAccesDate.csproj.CoreCompileInputs.cache
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\DataAccessLayer\obj\x86\Debug\NivelAcc.AD3BBEDF.Up2Date
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\DataAccessLayer\obj\x86\Debug\NivelAccesDate.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\DataAccessLayer\obj\x86\Debug\NivelAccesDate.pdb

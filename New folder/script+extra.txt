@@ -1,0 +1,60 @@
+CREATE TABLE Utilizatori
+(
+    idUtilizator NUMBER(3) NOT NULL PRIMARY KEY, 
+    nume VARCHAR2(10),
+    prenume VARCHAR2(10),
+    email VARCHAR2(30) CONSTRAINT ck_email_utilizatori CHECK (email LIKE '%@%.%'),
+    dataNasterii DATE,
+    inaltime CHAR(3),
+    numarKG INTEGER,
+    indexMasaMusculara CHAR(2)
+);
+
+
+CREATE TABLE ObiectiveUtilizator
+(
+idUtilizator NUMBER PRIMARY KEY,
+    tipObiectiv VARCHAR2(50),
+    descriere VARCHAR2(255),
+    dataStart DATE,
+    dataEnd DATE
+);
+
+CREATE TABLE JurnalActivitati
+(
+    idInregistrare NUMBER(3),
+    data DATE,
+    durataActivitate INTEGER NOT NULL,
+    distanta NUMBER(4,2),
+    caloriiArse CHAR(4),
+    bonus VARCHAR2(10),
+    email VARCHAR2(10)
+);
+
+CREATE TABLE Activitati
+(
+    idActivitate NUMBER PRIMARY KEY,
+    numeActivitate VARCHAR2(15),
+    descriereActivitate VARCHAR2(30),
+    durataActivitate INTEGER NOT NULL
+);
+
+
+modificari de pe parcurs:
+ALTER TABLE Utilizatori
+ADD CONSTRAINT uk_email UNIQUE (email);
+
+ALTER TABLE JurnalActivitati
+ADD CONSTRAINT pk_idInregistrare PRIMARY KEY (idInregistrare);
+
+
+
+DESCRIBE Activitati;
+DESCRIBE JurnalActivitati;
+DESCRIBE ObiectiveUtilizator;
+DESCRIBE Utilizatori;
+
+DROP TABLE Activitati;
+DROP TABLE JurnalActivitati;
+DROP TABLE ObiectiveUtilizator;
+DROP TABLE Utilizatori;

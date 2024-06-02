@@ -1,0 +1,12 @@
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\LibrarieModele\bin\Debug\LibrarieModele.pdb
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\LibrarieModele\obj\Debug\LibrarieModele.pdb
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\LibrarieModele\bin\Debug\LibrarieModele.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\LibrarieModele\bin\Debug\LibrarieModele.pdb
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\LibrarieModele\obj\Debug\LibrarieModele.csproj.AssemblyReference.cache
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\LibrarieModele\obj\Debug\LibrarieModele.csproj.CoreCompileInputs.cache
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\LibrarieModele\obj\Debug\LibrarieModele.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\LibrarieModele\obj\Debug\LibrarieModele.pdb

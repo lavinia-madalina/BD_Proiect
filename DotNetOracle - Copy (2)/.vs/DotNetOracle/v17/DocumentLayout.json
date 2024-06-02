@@ -1,0 +1,545 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|c:\\users\\lavin\\desktop\\faculta\\bd\\proiect\\dotnetoracle - copy (2)\\interfatautilizator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|c:\\users\\lavin\\desktop\\faculta\\bd\\proiect\\dotnetoracle - copy (2)\\interfatautilizator\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|c:\\users\\lavin\\desktop\\faculta\\bd\\proiect\\dotnetoracle - copy (2)\\interfatautilizator\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A468BE5-C3B3-4D70-9A48-59A08E84DB96}|LibrarieModele\\LibrarieModele.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\librariemodele\\utilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A468BE5-C3B3-4D70-9A48-59A08E84DB96}|LibrarieModele\\LibrarieModele.csproj|solutionrelative:librariemodele\\utilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\interfatautilizator\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\FormAfisare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:InterfataUtilizator\\FormAfisare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\interfatautilizator\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\interfatautilizator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\dataaccesslayer\\administrareobiectiveutilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:dataaccesslayer\\administrareobiectiveutilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\dataaccesslayer\\administrareactivitati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:dataaccesslayer\\administrareactivitati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\dataaccesslayer\\administrareutilizatori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:dataaccesslayer\\administrareutilizatori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A468BE5-C3B3-4D70-9A48-59A08E84DB96}|LibrarieModele\\LibrarieModele.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\librariemodele\\obiectiveutilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A468BE5-C3B3-4D70-9A48-59A08E84DB96}|LibrarieModele\\LibrarieModele.csproj|solutionrelative:librariemodele\\obiectiveutilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\dataaccesslayer\\istocareobiectiveutilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:dataaccesslayer\\istocareobiectiveutilizator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\dataaccesslayer\\istocareutilizatori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:dataaccesslayer\\istocareutilizatori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\SQLDbHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:DataAccessLayer\\SQLDbHelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\dataaccesslayer\\administrarejurnalactivitati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:dataaccesslayer\\administrarejurnalactivitati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A468BE5-C3B3-4D70-9A48-59A08E84DB96}|LibrarieModele\\LibrarieModele.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\librariemodele\\jurnalactivitate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A468BE5-C3B3-4D70-9A48-59A08E84DB96}|LibrarieModele\\LibrarieModele.csproj|solutionrelative:librariemodele\\jurnalactivitate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\IStocareJurnalActivitati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:DataAccessLayer\\IStocareJurnalActivitati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\StocareFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:InterfataUtilizator\\StocareFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\interfatautilizator\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A468BE5-C3B3-4D70-9A48-59A08E84DB96}|LibrarieModele\\LibrarieModele.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\librariemodele\\activitate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A468BE5-C3B3-4D70-9A48-59A08E84DB96}|LibrarieModele\\LibrarieModele.csproj|solutionrelative:librariemodele\\activitate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\IStocareActivitati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:DataAccessLayer\\IStocareActivitati.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\interfatautilizator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:InterfataUtilizator\\Form1.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\bin\\Debug\\Oracle.DataAccess.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     ",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\bin\\Debug\\Oracle.DataAccess.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n       0 !     \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\bin\\Debug\\Oracle.DataAccess.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DataAccessLayer\\bin\\Debug\\Oracle.DataAccess.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\interfatautilizator\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\form1.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\interfatautilizator\\formafisare.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:interfatautilizator\\formafisare.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\ComboItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:InterfataUtilizator\\ComboItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\IStocareFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:DataAccessLayer\\IStocareFactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\NivelAccesDate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FBE4D4F6-6900-4718-AA88-66B5396F7D3F}|DataAccessLayer\\NivelAccesDate.csproj|solutionrelative:DataAccessLayer\\NivelAccesDate.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D7731E6D-344E-4B30-9AE3-AB37FE499A01}|InterfataUtilizator\\InterfataUtilizator.csproj|solutionrelative:InterfataUtilizator\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 33,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{778b5376-ad77-4751-acdc-f3d18343f8dd}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\Form3.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\Form3.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\Form3.cs",
+              "RelativeToolTip": "InterfataUtilizator\\Form3.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:46:46.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\Form3.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\Form3.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\Form3.cs [Design]",
+              "RelativeToolTip": "InterfataUtilizator\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T21:44:44.021Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ObiectiveUtilizator.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\LibrarieModele\\ObiectiveUtilizator.cs",
+              "RelativeDocumentMoniker": "LibrarieModele\\ObiectiveUtilizator.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\LibrarieModele\\ObiectiveUtilizator.cs",
+              "RelativeToolTip": "LibrarieModele\\ObiectiveUtilizator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:33:18.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdministrareJurnalActivitati.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\AdministrareJurnalActivitati.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AdministrareJurnalActivitati.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\AdministrareJurnalActivitati.cs",
+              "RelativeToolTip": "DataAccessLayer\\AdministrareJurnalActivitati.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAUwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:24:06.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdministrareObiectiveUtilizator.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\AdministrareObiectiveUtilizator.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AdministrareObiectiveUtilizator.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\AdministrareObiectiveUtilizator.cs",
+              "RelativeToolTip": "DataAccessLayer\\AdministrareObiectiveUtilizator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:12:59.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "JurnalActivitate.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\LibrarieModele\\JurnalActivitate.cs",
+              "RelativeDocumentMoniker": "LibrarieModele\\JurnalActivitate.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\LibrarieModele\\JurnalActivitate.cs",
+              "RelativeToolTip": "LibrarieModele\\JurnalActivitate.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAswCYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:08:58.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdministrareActivitati.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\AdministrareActivitati.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AdministrareActivitati.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\AdministrareActivitati.cs",
+              "RelativeToolTip": "DataAccessLayer\\AdministrareActivitati.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T00:05:20.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IStocareObiectiveUtilizator.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\IStocareObiectiveUtilizator.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IStocareObiectiveUtilizator.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\IStocareObiectiveUtilizator.cs",
+              "RelativeToolTip": "DataAccessLayer\\IStocareObiectiveUtilizator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:57:53.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IStocareUtilizatori.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\IStocareUtilizatori.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IStocareUtilizatori.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\IStocareUtilizatori.cs",
+              "RelativeToolTip": "DataAccessLayer\\IStocareUtilizatori.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:08:39.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdministrareUtilizatori.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\AdministrareUtilizatori.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\AdministrareUtilizatori.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\AdministrareUtilizatori.cs",
+              "RelativeToolTip": "DataAccessLayer\\AdministrareUtilizatori.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAA/wFwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:08:31.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Utilizator.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\LibrarieModele\\Utilizator.cs",
+              "RelativeDocumentMoniker": "LibrarieModele\\Utilizator.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\LibrarieModele\\Utilizator.cs",
+              "RelativeToolTip": "LibrarieModele\\Utilizator.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwCgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T12:02:46.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Activitate.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\LibrarieModele\\Activitate.cs",
+              "RelativeDocumentMoniker": "LibrarieModele\\Activitate.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\LibrarieModele\\Activitate.cs",
+              "RelativeToolTip": "LibrarieModele\\Activitate.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwBcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:45:36.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\Form2.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\Form2.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\Form2.cs",
+              "RelativeToolTip": "InterfataUtilizator\\Form2.cs",
+              "ViewState": "AQIAAI0BAAAAAAAAAAAgwH8BAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:58:01.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\Form2.Designer.cs",
+              "RelativeToolTip": "InterfataUtilizator\\Form2.Designer.cs",
+              "ViewState": "AQIAACECAAAAAAAAAIAwwDECAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:56:00.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\Form2.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\Form2.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\Form2.cs [Design]",
+              "RelativeToolTip": "InterfataUtilizator\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:55:44.274Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\Form1.resx",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\Form1.resx",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\Form1.resx",
+              "RelativeToolTip": "InterfataUtilizator\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-23T21:49:16.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FormAfisare.resx",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\FormAfisare.resx",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormAfisare.resx",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\FormAfisare.resx",
+              "RelativeToolTip": "InterfataUtilizator\\FormAfisare.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-23T21:49:11.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ComboItem.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\ComboItem.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\ComboItem.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\ComboItem.cs",
+              "RelativeToolTip": "InterfataUtilizator\\ComboItem.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:36:54.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\Form1.Designer.cs",
+              "RelativeToolTip": "InterfataUtilizator\\Form1.Designer.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBAAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:29:43.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormAfisare.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\FormAfisare.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\FormAfisare.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\FormAfisare.cs [Design]",
+              "RelativeToolTip": "InterfataUtilizator\\FormAfisare.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:18:58.186Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\Form1.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\Form1.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\Form1.cs [Design]",
+              "RelativeToolTip": "InterfataUtilizator\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:18:56.223Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IStocareJurnalActivitati.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\IStocareJurnalActivitati.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IStocareJurnalActivitati.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\IStocareJurnalActivitati.cs",
+              "RelativeToolTip": "DataAccessLayer\\IStocareJurnalActivitati.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:18:08.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IStocareFactory.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\IStocareFactory.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IStocareFactory.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\IStocareFactory.cs",
+              "RelativeToolTip": "DataAccessLayer\\IStocareFactory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:14:43.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IStocareActivitati.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\IStocareActivitati.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\IStocareActivitati.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\IStocareActivitati.cs",
+              "RelativeToolTip": "DataAccessLayer\\IStocareActivitati.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:14:43.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "NivelAccesDate.csproj",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\NivelAccesDate.csproj",
+              "RelativeDocumentMoniker": "DataAccessLayer\\NivelAccesDate.csproj",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\NivelAccesDate.csproj",
+              "RelativeToolTip": "DataAccessLayer\\NivelAccesDate.csproj",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T21:12:12.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SQLDbHelper.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\SQLDbHelper.cs",
+              "RelativeDocumentMoniker": "DataAccessLayer\\SQLDbHelper.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\SQLDbHelper.cs",
+              "RelativeToolTip": "DataAccessLayer\\SQLDbHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:12:09.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Oracle.DataAccess.dll",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\bin\\Debug\\Oracle.DataAccess.dll",
+              "RelativeDocumentMoniker": "DataAccessLayer\\bin\\Debug\\Oracle.DataAccess.dll",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\bin\\Debug\\Oracle.DataAccess.dll",
+              "RelativeToolTip": "DataAccessLayer\\bin\\Debug\\Oracle.DataAccess.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-05-23T21:08:23.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Oracle.DataAccess.dll",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\bin\\Debug\\Oracle.DataAccess.dll",
+              "RelativeDocumentMoniker": "DataAccessLayer\\bin\\Debug\\Oracle.DataAccess.dll",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\DataAccessLayer\\bin\\Debug\\Oracle.DataAccess.dll",
+              "RelativeToolTip": "DataAccessLayer\\bin\\Debug\\Oracle.DataAccess.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-05-23T21:08:20.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\Form1.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\Form1.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\Form1.cs",
+              "RelativeToolTip": "InterfataUtilizator\\Form1.cs",
+              "ViewState": "AQIAAIUAAAAAAAAAAAAIwI0AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:04:38.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "app.config",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\app.config",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\app.config",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\app.config",
+              "RelativeToolTip": "InterfataUtilizator\\app.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-23T21:03:53.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StocareFactory.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\StocareFactory.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\StocareFactory.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\StocareFactory.cs",
+              "RelativeToolTip": "InterfataUtilizator\\StocareFactory.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:03:29.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\Program.cs",
+              "RelativeDocumentMoniker": "InterfataUtilizator\\Program.cs",
+              "ToolTip": "C:\\Users\\lavin\\Desktop\\FACULTA\\BD\\Proiect\\DotNetOracle - Copy (2)\\InterfataUtilizator\\Program.cs",
+              "RelativeToolTip": "InterfataUtilizator\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T21:03:25.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

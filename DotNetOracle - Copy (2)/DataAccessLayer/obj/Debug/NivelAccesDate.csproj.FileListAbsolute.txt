@@ -1,0 +1,20 @@
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\DataAccessLayer\bin\Debug\NivelAccesDate.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\DataAccessLayer\bin\Debug\NivelAccesDate.pdb
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\DataAccessLayer\bin\Debug\LibrarieModele.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\DataAccessLayer\bin\Debug\Oracle.DataAccess.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\DataAccessLayer\bin\Debug\LibrarieModele.pdb
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\DataAccessLayer\obj\Debug\NivelAccesDate.csproj.AssemblyReference.cache
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\DataAccessLayer\obj\Debug\NivelAccesDate.csproj.CoreCompileInputs.cache
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\DataAccessLayer\obj\Debug\NivelAcc.AD3BBEDF.Up2Date
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\DataAccessLayer\obj\Debug\NivelAccesDate.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\DataAccessLayer\obj\Debug\NivelAccesDate.pdb
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\DataAccessLayer\bin\Debug\NivelAccesDate.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\DataAccessLayer\bin\Debug\NivelAccesDate.pdb
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\DataAccessLayer\bin\Debug\LibrarieModele.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\DataAccessLayer\bin\Debug\Oracle.DataAccess.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\DataAccessLayer\bin\Debug\LibrarieModele.pdb
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\DataAccessLayer\obj\Debug\NivelAccesDate.csproj.AssemblyReference.cache
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\DataAccessLayer\obj\Debug\NivelAccesDate.csproj.CoreCompileInputs.cache
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\DataAccessLayer\obj\Debug\NivelAcc.AD3BBEDF.Up2Date
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\DataAccessLayer\obj\Debug\NivelAccesDate.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\DataAccessLayer\obj\Debug\NivelAccesDate.pdb

@@ -1,0 +1,40 @@
+CREATE TABLE Utilizatori
+(
+idUtilizator NUMBER(3) NOT NULL PRIMARY KEY, 
+idObiectiv NUMBER(2) NOT NULL,
+nume VARCHAR2(10),
+prenume VARCHAR2(10),
+email VARCHAR2(10) CONSTRAINT ck_email_utilizatori CHECK (email LIKE '%@%'),
+dataNasterii DATE,
+inaltime CHAR(3),
+numarKG INTEGER
+);
+
+CREATE TABLE ObiectiveUtilizator
+(
+idObiectiv NUMBER(2) NOT NULL PRIMARY KEY,
+idUtilizator NUMBER(3) CONSTRAINT fk_idUtilizator_utilizatori REFERENCES  Utilizatori(idUtilizator), 
+tipObiectiv VARCHAR2(20),
+descriere VARCHAR(30),
+dataStart DATE,
+dataEnd DATE
+);
+
+CREATE TABLE JurnalActivitati
+(
+idUtilizator NUMBER(3) CONSTRAINT fk_idUtilizator_utilizatori1 REFERENCES  Utilizatori(idUtilizator), 
+idInregistrare NUMBER(3), 
+idActivitate NUMBER(2) NOT NULL PRIMARY KEY,
+data DATE,
+durataActivitate INTEGER NOT NULL,
+distanta NUMBER(4,2),
+caloriiArse CHAR(4)
+);
+
+CREATE TABLE Activitati
+(
+idActivitate NUMBER(2) CONSTRAINT fk_idActivitate_jurnal REFERENCES JurnalActivitati(idActivitate),
+numeActivitate VARCHAR(15),
+descriereActivitate VARCHAR(30),
+durataActivitate INTEGER NOT NULL
+);

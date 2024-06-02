@@ -1,0 +1,37 @@
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\InterfataUtilizator\bin\Debug\DotNetOracle.exe.config
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\InterfataUtilizator\bin\Debug\DotNetOracle.exe
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\InterfataUtilizator\bin\Debug\DotNetOracle.pdb
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\InterfataUtilizator\bin\Debug\LibrarieModele.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\InterfataUtilizator\bin\Debug\NivelAccesDate.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\InterfataUtilizator\bin\Debug\Oracle.DataAccess.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\InterfataUtilizator\bin\Debug\NivelAccesDate.pdb
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\InterfataUtilizator\bin\Debug\LibrarieModele.pdb
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\InterfataUtilizator\obj\x86\Debug\InterfataUtilizator.csproj.AssemblyReference.cache
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\InterfataUtilizator\obj\x86\Debug\DotNetOracle.Form1.resources
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\InterfataUtilizator\obj\x86\Debug\DotNetOracle.FormAfisare.resources
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\InterfataUtilizator\obj\x86\Debug\DotNetOracle.Properties.Resources.resources
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\InterfataUtilizator\obj\x86\Debug\InterfataUtilizator.csproj.GenerateResource.cache
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\InterfataUtilizator\obj\x86\Debug\InterfataUtilizator.csproj.CoreCompileInputs.cache
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\InterfataUtilizator\obj\x86\Debug\Interfat.12A97923.Up2Date
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\InterfataUtilizator\obj\x86\Debug\DotNetOracle.exe
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\InterfataUtilizator\obj\x86\Debug\DotNetOracle.pdb
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle\InterfataUtilizator\obj\x86\Debug\DotNetOracle.Form2.resources
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\InterfataUtilizator\bin\Debug\DotNetOracle.exe.config
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\InterfataUtilizator\bin\Debug\DotNetOracle.exe
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\InterfataUtilizator\bin\Debug\DotNetOracle.pdb
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\InterfataUtilizator\bin\Debug\LibrarieModele.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\InterfataUtilizator\bin\Debug\NivelAccesDate.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\InterfataUtilizator\bin\Debug\Oracle.DataAccess.dll
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\InterfataUtilizator\bin\Debug\NivelAccesDate.pdb
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\InterfataUtilizator\bin\Debug\LibrarieModele.pdb
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\InterfataUtilizator\obj\x86\Debug\InterfataUtilizator.csproj.AssemblyReference.cache
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\InterfataUtilizator\obj\x86\Debug\DotNetOracle.Form1.resources
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\InterfataUtilizator\obj\x86\Debug\DotNetOracle.Form2.resources
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\InterfataUtilizator\obj\x86\Debug\DotNetOracle.Form3.resources
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\InterfataUtilizator\obj\x86\Debug\DotNetOracle.FormAfisare.resources
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\InterfataUtilizator\obj\x86\Debug\DotNetOracle.Properties.Resources.resources
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\InterfataUtilizator\obj\x86\Debug\InterfataUtilizator.csproj.GenerateResource.cache
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\InterfataUtilizator\obj\x86\Debug\InterfataUtilizator.csproj.CoreCompileInputs.cache
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\InterfataUtilizator\obj\x86\Debug\Interfat.12A97923.Up2Date
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\InterfataUtilizator\obj\x86\Debug\DotNetOracle.exe
+C:\Users\lavin\Desktop\FACULTA\BD\Proiect\DotNetOracle - Copy (2)\InterfataUtilizator\obj\x86\Debug\DotNetOracle.pdb
